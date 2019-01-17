@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDMChatBot", "EDMChatBot\EDMChatBot.csproj", "{55CFE64A-A921-491A-A8A1-EF5C25DA5429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDMChatBot.Core", "EDMChatBot.Core\EDMChatBot.Core.csproj", "{0D70DC4B-6AC6-43B4-81E8-DFF5B43E6E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDMChatBot.NAVClient", "EDMChatBot.NAVClient\EDMChatBot.NAVClient.csproj", "{BEED1412-A4DE-4A9C-8174-EB3892BEA161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CFE64A-A921-491A-A8A1-EF5C25DA5429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CFE64A-A921-491A-A8A1-EF5C25DA5429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CFE64A-A921-491A-A8A1-EF5C25DA5429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CFE64A-A921-491A-A8A1-EF5C25DA5429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D70DC4B-6AC6-43B4-81E8-DFF5B43E6E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D70DC4B-6AC6-43B4-81E8-DFF5B43E6E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D70DC4B-6AC6-43B4-81E8-DFF5B43E6E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D70DC4B-6AC6-43B4-81E8-DFF5B43E6E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEED1412-A4DE-4A9C-8174-EB3892BEA161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEED1412-A4DE-4A9C-8174-EB3892BEA161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEED1412-A4DE-4A9C-8174-EB3892BEA161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEED1412-A4DE-4A9C-8174-EB3892BEA161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+{
+    "name": "EDMChatBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "253d8f46-0547-4b0e-b1b2-1529e5c41f19",
+            "appPassword": "fzuNL28@=cvraDVXTV318_-",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "171",
+            "name": "development"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": "https://edmchatbot.azurewebsites.net/api/messages",
+            "id": "98",
+            "name": "Azure Endpoint",
+            "appId": "253d8f46-0547-4b0e-b1b2-1529e5c41f19",
+            "appPassword": "fzuNL28@=cvraDVXTV318_-"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/Users/alimans/Projects/EDMChatBot/EDMChatBot/EDMChatBot.bot",
+    "overrides": null
+}
